@@ -1,8 +1,6 @@
 # Report: MCP Workspace Server
 
-**Name:** Panopio, Jed Edison P. · 
-**Course:** CS 3A / CS 3B Elective · 
-**Project:** Midterms Pt 1, Build Your Own MCP
+**Name:** Jed Edison P. Panopio · **Section:** BSCS 3C/D · **Course:** CS 3A / CS 3B Elective · **Project:** Midterms Pt 1, Build Your Own MCP
 **Repo:** https://github.com/jedisoni/mcp-workspace-server
 
 ## 1. What I built
